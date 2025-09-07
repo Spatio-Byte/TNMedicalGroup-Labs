@@ -84,7 +84,6 @@
     initNav();
     initSmoothScroll();
     initRevealOnScroll();
-    initTheme();
     initScrollProgress();
     initHeroParallax();
   });
